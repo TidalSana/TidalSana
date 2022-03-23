@@ -1,7 +1,7 @@
 Hafa Adai **(Hello)**!! 🌺
 ============
 
-<img src="https://media.discordapp.net/attachments/388125739192418305/956296393880903740/image0.jpg?width=446&height=595" align="right" alt="Josh" width="304" height="304">
+<img src="https://media.discordapp.net/attachments/388125739192418305/956296393880903740/image0.jpg?width=446&height=595" align="right" alt="Josh" width="304" height="404">
 
 
 
