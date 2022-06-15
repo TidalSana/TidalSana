@@ -1,13 +1,13 @@
 Hafa Adai **(Hello)**!! 🌺
 ============
 
-<img src="https://media.discordapp.net/attachments/388125739192418305/956296393880903740/image0.jpg?width=446&height=595" align="right" alt="Josh" width="304" height="404">
+<img src="https://media.discordapp.net/attachments/388125739192418305/956296393880903740/image0.jpg?width=446&height=595" align="right" alt="Josh" width="304" height="404" border-radius="15px 15px 15px 15px">
 
 
 ### Joshua Semana —— [@TidalSana](https://twitter.com/JestingJosh)
 Hi, my name is Joshua Semana! This is where I somehow make stuff in the computer language known as code. Currently, I am going through The Odin Project Curriculum (TOP) to learn FullStack (MERN). 
 
-### Where I'm from :confused:
+### Where am I from? :confused:
 
 I'm from a tiny southern Pacific island called Rota. Have you ever heard of the Marianas Trench? It's about 40 miles from there! It's also one of the neighboring islands to Guam (I was born there). 
 
