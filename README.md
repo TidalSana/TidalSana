@@ -44,7 +44,7 @@ I recently graduated from The University of Providence Great Falls at the end of
 
 I initially concentrated on Networking Administration, but I did still do the required Programming classes like Algorithms, Data Structures, etc. 
 
-##### More about eSports (It's long story...)
+##### More about eSports (It's a long story...)
 
 _Well what about that esports thang??? Joshua?_
 
