@@ -32,10 +32,10 @@ I'm from a tiny southern Pacific island called Rota. Have you ever heard of the 
 ### Experience :construction_worker:
 #### IT/Networking Administrator Intern (Oct 2020 - Jan 2021)
 ##### Big Sky Billing
-*Implemented general IT tasks and Network Administration basics.
-*Integrated users and computers into Active Directory Systems.
-*Aided in establishing remote connections for off-site employees.
-*Delegated and operated PBX phone systems on-site.
+* Implemented general IT tasks and Network Administration basics.
+* Integrated users and computers into Active Directory Systems.
+* Aided in establishing remote connections for off-site employees.
+* Delegated and operated PBX phone systems on-site.
 
 ### School - eSports? :video_game:
 I recently graduated from The University of Providence Great Falls at the end of 2021. I originally started at GFCMSU (Great Falls College MSU) and was looking to transfer to a 4-year university. Luckily, I ended up being picked for an eSports scholarship by the local university. I ended up staying for the rest of my college career and receiving a Bachelor's in Computer Science. 
