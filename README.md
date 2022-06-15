@@ -4,7 +4,7 @@ Hafa Adai **(Hello)**!! 🌺
 <img src="https://media.discordapp.net/attachments/388125739192418305/956296393880903740/image0.jpg?width=446&height=595" align="right" alt="Josh" width="304" height="404">
 
 
-### Joshua Semana —— ![@TidalSana](https://twitter.com/JestingJosh)
+### Joshua Semana —— [@TidalSana](https://twitter.com/JestingJosh)
 Hi, my name is Joshua Semana! This is where I somehow make stuff in the computer language known as code. Currently, I am going through The Odin Project Curriculum (TOP) to learn FullStack (MERN). 
 
 ### Where I'm from :confused:
@@ -48,6 +48,6 @@ I initially concentrated on Networking Administration, but I did still do the re
 
 _Well what about that esports thang??? Joshua?_
 
-For those interested, I ended up ![receiving a position](https://upargos.com/news/2019/1/21/argo-esports-inks-semana-to-league-spring-roster.aspx) on the team to play League of Legends (wooo!). For those who know league, it is a very difficult game. I would say mechanics matter (pressing buttons pretty fast), but game knowledge (knowing stuff) outshines. Of course, both together play a big role in how a player is in-game. I played mid and I ended up playing throughout my entire college career. I wanted to make a career out of it, but things don't always go as planned (I still love programming btw!). Even before I joined the team and enrolled in university, I was pretty committed to playing league, I made schedules, game plans, notes, and timelines of how I would improve over time, hopefully reaching my goal of becoming a pro player. 
+For those interested, I ended up [receiving a position](https://upargos.com/news/2019/1/21/argo-esports-inks-semana-to-league-spring-roster.aspx) on the team to play League of Legends (wooo!). For those who know league, it is a very difficult game. I would say mechanics matter (pressing buttons pretty fast), but game knowledge (knowing stuff) outshines. Of course, both together play a big role in how a player is in-game. I played mid and I ended up playing throughout my entire college career. I wanted to make a career out of it, but things don't always go as planned (I still love programming btw!). Even before I joined the team and enrolled in university, I was pretty committed to playing league, I made schedules, game plans, notes, and timelines of how I would improve over time, hopefully reaching my goal of becoming a pro player. 
 
 I learned a lot and one key takeaway from playing League was if I wanted to improve, I had to accept that I'm not perfect and point out my mistakes and improve upon them. eSports in college and even up to this day, helping out friends and coaching teammates was very difficult. Even I catch myself blaming other people, the environment, and everything, but myself. I now know that you can't pin the blame on anything other than yourself. Not just for league, but everything in life, yes it is very nice to get assistance from friends and family, but it starts with the person. 
