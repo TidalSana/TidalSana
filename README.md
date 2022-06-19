@@ -5,11 +5,11 @@ Hafa Adai **(Hello)**!! 🌺
 
 
 ### Joshua Semana —— [@TidalSana](https://twitter.com/JestingJosh)
-Hi, my name is Joshua Semana! This is where I somehow make stuff in the computer language known as code. Currently, I am going through The Odin Project Curriculum (TOP) to learn FullStack (MERN). 
+Hi, my name is Joshua Semana! This is where I somehow make stuff in the computer language known as code. Currently, I am going through The Odin Project Curriculum (TOP) to learn FullStack (MERN) concepts and eventually end up as a developer. 
 
 ### Where am I from? :confused:
 
-I'm from a tiny southern Pacific island called Rota. Have you ever heard of the Marianas Trench? It's about 40 miles from there! It's also one of the neighboring islands to Guam (I was born there). 
+I'm from a tiny southern Pacific island called Rota. Have you ever heard of the Marianas Trench, it's about 40 miles from there. It's also one of the neighboring islands to Guam (I was born there). 
 
 ### Jutsu (Skills) :punch::pray::open_hands::fist:
 * Programming
@@ -30,7 +30,7 @@ I'm from a tiny southern Pacific island called Rota. Have you ever heard of the 
 	* Windows
 
 ### Experience :construction_worker:
-#### IT/Networking Administrator Intern (Oct 2020 - Jan 2021)
+#### IT/Networking Admin Intern (Oct 2020 - Jan 2021)
 ##### Big Sky Billing
 * Implemented general IT tasks and Network Administration basics.
 * Integrated users and computers into Active Directory Systems.
@@ -42,7 +42,7 @@ I recently graduated from The University of Providence Great Falls at the end of
 
 #### Networking? :floppy_disk:
 
-I initially concentrated on Networking Administration, but I did still do the required Programming classes like Algorithms, Data Structures, etc. 
+I initially concentrated on Networking Administration, but ended switching back into programming. Oh and I still took the typical programming classes like Data Structures and Algorithms.
 
 ##### More about eSports (It's a long story...)
 
