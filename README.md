@@ -30,36 +30,46 @@ I'm from a tiny southern Pacific island called Rota 🇲🇵. Have you ever hear
 
 
 ## Tech Stack
-<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/html5/" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/css3/" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/ruby/" />
+<div>
+	<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/" />
+	<img height="32" width="32" src="https://cdn.simpleicons.org/html5/" />
+	<img height="32" width="32" src="https://cdn.simpleicons.org/css3/" />
+	<img height="32" width="32" src="https://cdn.simpleicons.org/ruby/" />
+</div>
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/react/" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/node.js/" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/express/" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/typescript/" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/graphql/" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss/" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/rubyonrails/" />
+<div>
+	<img height="32" width="32" src="https://cdn.simpleicons.org/react/" />
+	<img height="32" width="32" src="https://cdn.simpleicons.org/node.js/" />
+	<img height="32" width="32" src="https://cdn.simpleicons.org/express/" />
+	<img height="32" width="32" src="https://cdn.simpleicons.org/typescript/" />
+	<img height="32" width="32" src="https://cdn.simpleicons.org/graphql/" />
+	<img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss/" />
+	<img height="32" width="32" src="https://cdn.simpleicons.org/rubyonrails/" />
+</div>
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/postgresql/" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/mongodb/" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/firebase/" />
+<div>
+	<img height="32" width="32" src="https://cdn.simpleicons.org/postgresql/" />
+	<img height="32" width="32" src="https://cdn.simpleicons.org/mongodb/" />
+	<img height="32" width="32" src="https://cdn.simpleicons.org/firebase/" />
+</div>
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/jest/" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/vitest/" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/cypress/" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/playwright/" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/mocha/" />
+<div>
+	<img height="32" width="32" src="https://cdn.simpleicons.org/jest/" />
+	<img height="32" width="32" src="https://cdn.simpleicons.org/vitest/" />
+	<img height="32" width="32" src="https://cdn.simpleicons.org/cypress/" />
+	<img height="32" width="32" src="https://cdn.simpleicons.org/playwright/" />
+	<img height="32" width="32" src="https://cdn.simpleicons.org/mocha/" />
+</div>
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/git/" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/github/" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/nx/" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/docker/" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/vercel/" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/circleci/" />
+<div>
+	<img height="32" width="32" src="https://cdn.simpleicons.org/git/" />
+	<img height="32" width="32" src="https://cdn.simpleicons.org/github/" />
+	<img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/" />
+	<img height="32" width="32" src="https://cdn.simpleicons.org/nx/" />
+	<img height="32" width="32" src="https://cdn.simpleicons.org/docker/" />
+	<img height="32" width="32" src="https://cdn.simpleicons.org/vercel/" />
+	<img height="32" width="32" src="https://cdn.simpleicons.org/circleci/" />
+</div>
 
 
 
