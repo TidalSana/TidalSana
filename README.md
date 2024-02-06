@@ -1,29 +1,40 @@
 # Joshua Semana —— [@TidalSana](https://twitter.com/JestingJosh)
 
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TidalSana&theme=tokyonight
-
-### [Hafa Adai](http://www.chamoru.info/language-lessons/chamorro-phrases/hafa-adai-meaning) 🌺 - *"Hello"*!!
-![Visitor Count](https://profile-counter.glitch.me/TidalSana/count.svg)
-
+#### [Hafa Adai](http://www.chamoru.info/language-lessons/chamorro-phrases/hafa-adai-meaning) 🌺 - *"Hello"*!!
 
 **My name is Josh and I'm a FullStack Engineer from Bozeman, MT. I'm constantly working on my craft (code), and design. I'm all about eSports, video games, and custom mechanical keyboards.**
 
 <!-- <img src="https://media.discordapp.net/attachments/388125739192418305/956296393880903740/image0.jpg?width=446&height=595" align="right" alt="Josh" width="304" height="404" border-radius="15px 15px 15px 15px"> -->
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TidalSana&theme=discord_old_blurple)
+
+## Experience :construction_worker:
+
+ <a href="url"><img height="auto" width="200" style="border-radius:50%; float: right;" src="https://joshuasemana.com/aboutme.jpeg" /></a>
+
+Currently, I'm a full-stack engineer at [Biproxi](https://biproxi.com/), and [OfficeSpace](www.officespace.com/).  I've had the opportunity to work collaboratively with the head of engineering, and other team members to make significant contributions to both CRE platforms.
+
 ### Where am I from? :confused:
 
-I'm from a tiny southern Pacific island called Rota. Have you ever heard of the Marianas Trench, it's about 40 miles from there. It's also one of the neighboring islands to Guam (I was born there).
+I'm from a tiny southern Pacific island called Rota 🇲🇵. Have you ever heard of the Marianas Trench, it's about 40 miles from there. It's also one of the neighboring islands to Guam (I was born there).
+
+#### Goofy Grooves :notes:
+
+> <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=tidalasp054">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=tidalasp054" alt="Data Card for Spotify">
+</a>
+
+## Wyd rn :bowtie: :flushed:?
+[![onetab.group](https://svg.bookmark.style/api?url=https://www.biproxi.com/&mode=light&style=horizontal)](https://biproxi.com/)
+[![onetab.group](https://svg.bookmark.style/api?url=https://www.officespace.com/&mode=light&style=horizontal)](https://www.officespace.com/)
 
 
-<!-- ### What's up! -->
-
-#### Languages
+## Tech Stack
 <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/html5/" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/css3/" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/ruby/" />
 
-#### Frameworks
 <img height="32" width="32" src="https://cdn.simpleicons.org/react/" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/node.js/" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/express/" />
@@ -32,19 +43,16 @@ I'm from a tiny southern Pacific island called Rota. Have you ever heard of the 
 <img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss/" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/rubyonrails/" />
 
-#### Database
 <img height="32" width="32" src="https://cdn.simpleicons.org/postgresql/" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb/" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/firebase/" />
 
-#### Testing
 <img height="32" width="32" src="https://cdn.simpleicons.org/jest/" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/vitest/" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/cypress/" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/playwright/" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/mocha/" />
 
-#### DevTools
 <img height="32" width="32" src="https://cdn.simpleicons.org/git/" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/github/" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/" />
@@ -53,26 +61,18 @@ I'm from a tiny southern Pacific island called Rota. Have you ever heard of the 
 <img height="32" width="32" src="https://cdn.simpleicons.org/vercel/" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/circleci/" />
 
-### Experience :construction_worker:
-#### Software Engineer (August 2023 - Present)
-##### *Biproxi Capital Network*
-* Played a pivotal role during a phase of product shift, collaborating effectively with changing product management. Developed multiple Minimum Viable Products (MVP), aligning with the vision of the new Product Manager, utilizing React for accelerated development.
-* Developed two fullstack applications within product shift, leveraged with Next.Js, TailwindCSS, Prisma ORM, and TRPC for quick development.
-* Mentored Junior Engineer, providing guidance and support in their professional development, contributing to an 80% improvement on productivity.
-* Demonstrated strong cross-functional collaboration with different teams, contributing to sprint planning sessions, backlog refinement, and retrospective ceremonies.
-* Implemented changes to incorporate currency/international exchange on tables displayed across various platform sections, necessitating adjustments to our API integration’s enabling support for international users.
-#### Software Engineer (June 2023 - Present)
-##### *Officespace CRE Platform*
-* Conducted thorough research on Ruby on Rails and MVC architecture, ensuring a precise and visually appealing display of listing details on both front-end and back-end. Enhanced user experience and provided valuable context for developers, fostering a cohesive understanding of the system’s intricacies.
-* Led seamless integration of third-party API listings into Officespace’s PostgreSQL database significantly expanding listings and catalyzing a substantial increase in lead generation.
-* Introduced Jest framework for backend unit testing, enhancing the reliability of critical functionalities, particularly in the seamless integration of listings from other companies.
 
-#### Software Engineer (August 2022 - August 2023)
-##### *Biproxi CRE Platform*
-* Implemented general IT tasks and Network Administration basics.
-* Integrated users and computers into Active Directory Systems.
-* Aided in establishing remote connections for off-site employees.
-* Delegated and operated PBX phone systems on-site.
+
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TidalSana&theme=discord_old_blurple)
+
+
+<!-- * Software Engineer (August 2023 - Present)
+  * *Biproxi Capital Network*
+* Software Engineer (June 2023 - Present)
+  * *Officespace CRE Platform*
+* Software Engineer (August 2022 - August 2023)
+  * *Biproxi CRE Platform* -->
 
 <!-- ### School - eSports? :video_game:
 I recently graduated from The University of Providence Great Falls at the end of 2021. I originally started at GFCMSU (Great Falls College MSU) and was looking to transfer to a 4-year university. Luckily, I ended up being picked for an eSports scholarship by the local university. I ended up staying for the rest of my college career and receiving a Bachelor's in Computer Science.
