@@ -12,7 +12,7 @@
 
  <img height="auto" width="200" style="border-radius: 50%; float: right;" src="https://joshuasemana.com/aboutme.jpeg" />
 
-Currently, I'm a full-stack engineer at [Biproxi](https://biproxi.com/), and [OfficeSpace](www.officespace.com/).  I've had the opportunity to work collaboratively with the head of engineering, and other team members to make significant contributions to both CRE platforms.
+Currently, I'm a full-stack engineer at [Biproxi](https://biproxi.com/), and [OfficeSpace](https://www.officespace.com/).  I've had the opportunity to work collaboratively with the head of engineering, and other team members to make significant contributions to both CRE platforms.
 
 ### Where am I from? :confused:
 
