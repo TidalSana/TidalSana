@@ -2,17 +2,21 @@
 
 #### [Hafa Adai](http://www.chamoru.info/language-lessons/chamorro-phrases/hafa-adai-meaning) 🌺 - *"Hello"*!!
 
-**My name is Josh and I'm a FullStack Engineer from Bozeman, MT. I'm constantly working on my craft (code), and design. I'm all about eSports, video games, and custom mechanical keyboards.**
 
 <!-- <img src="https://media.discordapp.net/attachments/388125739192418305/956296393880903740/image0.jpg?width=446&height=595" align="right" alt="Josh" width="304" height="404" border-radius="15px 15px 15px 15px"> -->
+
+<!-- ![avatar](https://images.weserv.nl/?url=joshuasemana.com/josh.jpeg?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d) -->
+
+<img align="right" height="auto" width="25%" src="https://images.weserv.nl/?url=joshuasemana.com/josh.jpeg?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" />
+My name is Josh and I'm a FullStack Engineer from Bozeman, MT. I'm constantly working on my craft (code), and design. I'm all about eSports, video games, and custom mechanical keyboards.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TidalSana&theme=discord_old_blurple)
 
 ## Experience :construction_worker:
 
- <img height="auto" width="200" style="border-radius: 50%; float: right;" src="https://joshuasemana.com/aboutme.jpeg" />
+ <!-- <img height="auto" width="200" style="border-radius: 50%; float: right;" src="https://joshuasemana.com/aboutme.jpeg" /> -->
 
-Currently, I'm a full-stack engineer at [Biproxi](https://biproxi.com/), and [OfficeSpace](https://www.officespace.com/).  I've had the opportunity to work collaboratively with the head of engineering, and other team members to make significant contributions to both CRE platforms.
+Currently, I work at [Biproxi](https://biproxi.com/), and [OfficeSpace](https://www.officespace.com/).  I've had the opportunity to work collaboratively with the head of engineering, and other team members to make significant contributions to both CRE platforms.
 
 ### Where am I from? :confused:
 
