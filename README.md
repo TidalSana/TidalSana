@@ -7,7 +7,7 @@
 
 <!-- ![avatar](https://images.weserv.nl/?url=joshuasemana.com/josh.jpeg?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d) -->
 
-<img align="right" height="auto" width="25%" src="https://images.weserv.nl/?url=joshuasemana.com/josh.jpeg?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" />
+<!-- <img align="right" height="auto" width="25%" src="https://images.weserv.nl/?url=joshuasemana.com/josh.jpeg?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" />  -->
 My name is Josh and I'm a FullStack Engineer from Bozeman, MT. I'm constantly working on my craft (code), and design. I'm all about eSports, video games, and custom mechanical keyboards.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TidalSana&theme=discord_old_blurple)
