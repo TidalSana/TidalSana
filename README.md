@@ -35,44 +35,43 @@ I'm from a tiny southern Pacific island called Rota 🇲🇵. Have you ever hear
 
 ## Tech Stack
 <div>
-	<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/" />
-	<img height="32" width="32" src="https://cdn.simpleicons.org/html5/" />
-	<img height="32" width="32" src="https://cdn.simpleicons.org/css3/" />
-	<img height="32" width="32" src="https://cdn.simpleicons.org/ruby/" />
+	<img height="32" src="https://cdn.simpleicons.org/javascript?viewbox=auto" />
+	<img height="32" src="https://cdn.simpleicons.org/html5?viewbox=auto" />
+	<img height="32" src="https://cdn.simpleicons.org/css3?viewbox=auto" />
+	<img height="32" src="https://cdn.simpleicons.org/ruby?viewbox=auto" />
 </div>
 
 <div>
-	<img height="32" width="32" src="https://cdn.simpleicons.org/react/" />
-	<img height="32" width="32" src="https://cdn.simpleicons.org/node.js/" />
-	<img height="32" width="32" src="https://cdn.simpleicons.org/express/" />
-	<img height="32" width="32" src="https://cdn.simpleicons.org/typescript/" />
-	<img height="32" width="32" src="https://cdn.simpleicons.org/graphql/" />
-	<img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss/" />
-	<img height="32" width="32" src="https://cdn.simpleicons.org/rubyonrails/" />
+	<img height="32" src="https://cdn.simpleicons.org/react?viewbox=auto" />
+	<img height="32" src="https://cdn.simpleicons.org/node.js?viewbox=auto" />
+	<img height="32" src="https://cdn.simpleicons.org/express?viewbox=auto" />
+	<img height="32" src="https://cdn.simpleicons.org/typescript?viewbox=auto" />
+	<img height="32" src="https://cdn.simpleicons.org/graphql?viewbox=auto" />
+	<img height="32" src="https://cdn.simpleicons.org/tailwindcss?viewbox=auto" />
+	<img height="32" src="https://cdn.simpleicons.org/rubyonrails?viewbox=auto" />
 </div>
 
 <div>
-	<img height="32" width="32" src="https://cdn.simpleicons.org/postgresql/" />
-	<img height="32" width="32" src="https://cdn.simpleicons.org/mongodb/" />
-	<img height="32" width="32" src="https://cdn.simpleicons.org/firebase/" />
+	<img height="32" src="https://cdn.simpleicons.org/postgresql?viewbox=auto" />
+	<img height="32" src="https://cdn.simpleicons.org/mongodb?viewbox=auto" />
+	<img height="32" src="https://cdn.simpleicons.org/firebase?viewbox=auto" />
 </div>
 
 <div>
-	<img height="32" width="32" src="https://cdn.simpleicons.org/jest/" />
-	<img height="32" width="32" src="https://cdn.simpleicons.org/vitest/" />
-	<img height="32" width="32" src="https://cdn.simpleicons.org/cypress/" />
-	<img height="32" width="32" src="https://cdn.simpleicons.org/playwright/" />
-	<img height="32" width="32" src="https://cdn.simpleicons.org/mocha/" />
+	<img height="32" src="https://cdn.simpleicons.org/jest?viewbox=auto" />
+	<img height="32" src="https://cdn.simpleicons.org/vitest?viewbox=auto" />
+	<img height="32" src="https://cdn.simpleicons.org/cypress?viewbox=auto" />
+	<img height="32" src="https://cdn.simpleicons.org/playwright?viewbox=auto" />
+	<img height="32" src="https://cdn.simpleicons.org/mocha?viewbox=auto" />
 </div>
 
 <div>
-	<img height="32" width="32" src="https://cdn.simpleicons.org/git/" />
-	<img height="32" width="32" src="https://cdn.simpleicons.org/github/" />
-	<img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/" />
-	<img height="32" width="32" src="https://cdn.simpleicons.org/nx/" />
-	<img height="32" width="32" src="https://cdn.simpleicons.org/docker/" />
-	<img height="32" width="32" src="https://cdn.simpleicons.org/vercel/" />
-	<img height="32" width="32" src="https://cdn.simpleicons.org/circleci/" />
+	<img height="32" src="https://cdn.simpleicons.org/git?viewbox=auto" />
+	<img height="32" src="https://cdn.simpleicons.org/github?viewbox=auto" />
+	<img height="32" src="https://cdn.simpleicons.org/nx?viewbox=auto" />
+	<img height="32" src="https://cdn.simpleicons.org/docker?viewbox=auto" />
+	<img height="32" src="https://cdn.simpleicons.org/vercel?viewbox=auto" />
+	<img height="32" src="https://cdn.simpleicons.org/circleci?viewbox=auto" />
 </div>
 
 
